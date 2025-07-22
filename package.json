@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "browsersync": "0.0.1-security",
+    "eslint": "9.23.0",
+    "pixel-glass": "^1.0.13"
+  }
+}
