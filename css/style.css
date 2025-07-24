@@ -24,6 +24,7 @@ body {
 	color: #040522;
 	font-family: "Lexend", sans-serif;
 	font-weight: 400;
+	overflow-x: hidden;
 }
 
 a {
@@ -71,6 +72,7 @@ ul {
 	align-items: center;
 	padding: 38px 227px 0 227px;
 	margin-bottom: 41px;
+	overflow-x: hidden;
 }
 
 .logo-wrapper {
@@ -206,6 +208,7 @@ ul {
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
+	overflow-x: hidden;
 }
 
 /*left-side*/
@@ -382,6 +385,7 @@ ul {
 
 /*main-content*/
 /*carousel*/
+.main {}
 
 .carousel {
 	display: -webkit-box;
@@ -481,6 +485,7 @@ ul {
 	-ms-flex-align: center;
 	align-items: center;
 	margin-bottom: 116px;
+	overflow-x: hidden;
 }
 
 .arrivals__title-wrapper {
@@ -581,6 +586,7 @@ ul {
 	-ms-flex-align: center;
 	align-items: center;
 	margin-bottom: 120px;
+	overflow-x: hidden;
 }
 
 .topselling .title {
@@ -766,6 +772,7 @@ ul {
 	-ms-flex-align: center;
 	align-items: center;
 	margin-bottom: 118px;
+	overflow-x: hidden;
 }
 
 .brands__title-wrapper {
@@ -826,6 +833,7 @@ ul {
 	-ms-flex-align: center;
 	align-items: center;
 	margin-bottom: 119px;
+	overflow-x: hidden;
 }
 
 .blogs__title-wrapper {
@@ -917,7 +925,6 @@ ul {
 
 .footer {
 	background-color: #040522;
-
 }
 
 .footer__wrapper {
