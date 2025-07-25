@@ -531,10 +531,18 @@
 	}
 }
 
-@media (max-width: 775px) {
+@media (max-width: 805px) {
+	.header-top__link {
+		font-size: 16px;
+		line-height: 19.09px;
+	}
+
 	.header-top {
 		padding: 38px 10px 0 10px;
 	}
+}
+
+@media (max-width: 775px) {
 
 	.logo {
 		font-size: 25px;
@@ -544,11 +552,6 @@
 	.logo__svg>svg {
 		width: 36px;
 		height: 26px;
-	}
-
-	.header-top__link {
-		font-size: 16px;
-		line-height: 19.09px;
 	}
 
 	.search {
