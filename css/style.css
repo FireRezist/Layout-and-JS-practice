@@ -344,6 +344,11 @@ ul {
 	display: flex;
 }
 
+.header-content__followers-svg img {
+	width: 90px;
+	height: 38.063px;
+}
+
 .header-content__followers-count {
 	font-family: "Roboto", sans-serif;
 	font-weight: 400;
