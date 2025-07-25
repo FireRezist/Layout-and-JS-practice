@@ -100,8 +100,9 @@ ul {
 	display: flex;
 	-ms-flex-wrap: wrap;
 	flex-wrap: wrap;
-	-webkit-box-pack: justify;
-	-ms-flex-pack: justify;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
 	justify-content: center;
 	list-style: none;
 	min-width: 319px;
